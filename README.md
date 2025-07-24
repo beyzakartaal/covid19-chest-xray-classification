@@ -69,14 +69,3 @@ Bu proje eğitim amaçlı geliştirilmiştir.
 
 **Veri Seti Kaynağı:** [Kaggle - COVID-19 Radiography Database](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
 
-## 🤝 Katkıda Bulunma
-
-Projeye katkıda bulunmak istiyorsanız:
-1. Fork yapın
-2. Feature branch oluşturun
-3. Değişikliklerinizi commit edin
-4. Pull request gönderin
-
-## 📞 İletişim
-
-Sorularınız için issue açabilirsiniz. 
